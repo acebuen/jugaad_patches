@@ -1,0 +1,16 @@
+uuid: 07d69619-d82e-4c20-a5bd-2e5457f75d28
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - jppl_product
+_core:
+  default_config_hash: cpNgdG4TjZf4AwdiwSPzwVQgVxzEROvfGMTMfxiQ4zM
+name: Product
+type: product
+description: 'Content type that can be used to add <em>Product</em> page.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

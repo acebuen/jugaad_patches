@@ -1,0 +1,14 @@
+<?php
+
+/**
+* Implements hook_theme()
+**/
+function jppl_product_theme($existing, $type, $theme, $path) {
+  return [
+    'qr_code' => [
+      'variables' => [
+        'path' => '',
+      ],
+    ],
+  ];
+}

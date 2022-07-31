@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - jppl_product
+  theme:
+    - bartik
+id: qrcodeblock
+theme: bartik
+region: sidebar_second
+weight: 0
+provider: null
+plugin: qr_code
+settings:
+  id: qr_code
+  label: 'QR Code block'
+  label_display: '0'
+  provider: jppl_product
+visibility: {  }

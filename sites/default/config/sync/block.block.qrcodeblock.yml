@@ -1,0 +1,22 @@
+uuid: b4f562bd-28c0-4873-b982-47f2e7c5cab8
+langcode: en
+status: true
+dependencies:
+  module:
+    - jppl_product
+  theme:
+    - bartik
+_core:
+  default_config_hash: G_VERduGfaRcAPUl53XM2vtieSTtfcGN8XOdv8hnGUE
+id: qrcodeblock
+theme: bartik
+region: sidebar_second
+weight: 0
+provider: null
+plugin: qr_code
+settings:
+  id: qr_code
+  label: 'QR Code block'
+  label_display: '0'
+  provider: jppl_product
+visibility: {  }

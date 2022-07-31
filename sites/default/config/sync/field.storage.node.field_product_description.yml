@@ -1,0 +1,24 @@
+uuid: c0a13af8-e579-4c14-8436-301999fe31b2
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+  enforced:
+    module:
+      - jppl_product
+_core:
+  default_config_hash: yqZ8HdR1BW3JykzdVff4SuT7PizZsUc7Ng4Urx0GD4k
+id: node.field_product_description
+field_name: field_product_description
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

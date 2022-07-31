@@ -1,0 +1,24 @@
+uuid: 357740b7-5f84-4474-8bb4-cd9fba3f9ede
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - node
+  enforced:
+    module:
+      - jppl_product
+_core:
+  default_config_hash: 6k6vfU5IVRhjVzsKMkROrY-8db2xYDU8Xxwle9Vhn3w
+id: node.field_app_purchase_link
+field_name: field_app_purchase_link
+entity_type: node
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
