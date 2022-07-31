@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - jppl_product
+name: 'Product'
+type: product
+description: 'Content type that can be used to add <em>Product</em> page.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

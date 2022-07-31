@@ -1,0 +1,14 @@
+uuid: f2e37043-fa86-46a2-9f25-f16c831d397a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - patrickacebuen13@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

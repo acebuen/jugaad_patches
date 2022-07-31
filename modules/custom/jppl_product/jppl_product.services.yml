@@ -1,0 +1,3 @@
+services:
+  jppl_product.qr_generator:
+    class: Drupal\jppl_product\QRGeneratorService

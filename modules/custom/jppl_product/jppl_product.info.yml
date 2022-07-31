@@ -1,0 +1,10 @@
+name: JPPL Product
+type: module
+description: 'Custom module for creating Product pages'
+package: Custom
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:node
+  - drupal:block
+  - drupal:media
+  - drupal:media_library
